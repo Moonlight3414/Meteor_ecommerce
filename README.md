@@ -1,4 +1,4 @@
-# Meteor
+# Meteor 
 
 For Meteor E-commerce, I implemented a full-stack solution using a range of modern technologies. The application uses React for the front-end, allowing for dynamic user interfaces, while Sass provides modular and efficient styling. Zustand handles state management across components, ensuring responsive and smooth UI interactions.
 
